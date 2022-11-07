@@ -4,6 +4,8 @@ class Program
     static void Main()
     {
         Console.WriteLine("hello");
+        greetWhite();
+        greetBlack();
     }
     public static void greetWhite()
     {
